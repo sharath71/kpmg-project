@@ -1,0 +1,8 @@
+# values.yaml
+replicaCount: 1
+image:
+  repository: sharath71/sharath71-kpmg
+  tag: 0.0.1
+service:
+  name: web-app
+  port: 9000
